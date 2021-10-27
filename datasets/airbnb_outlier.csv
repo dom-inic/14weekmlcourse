@@ -1,0 +1,201 @@
+index,neighbourhood,zipcode,latitude,longitude,property_type,room_type,accommodates,bathrooms,bedrooms,beds,price
+0,University of Texas,78705,30.30123,-97.73674,Guesthouse,Entire home/apt,2,1,1,5,85
+1,East Downtown,78702,30.2775,-97.71398,House,Entire home/apt,4,2,2,6,225
+2,East Downtown,78702,30.27577,-97.71379,House,Private room,2,1,1,1,100
+3,East Downtown,78702,30.26112,-97.73448,Guesthouse,Entire home/apt,3,1,1,2,95
+4,SW Williamson Co.,78729,30.45596,-97.7837,House,Private room,2,1,1,1,40
+5,Travis Heights,78704,30.24829,-97.73726,Guesthouse,Entire home/apt,2,1,,1,99
+6,Zilker,78704,30.26027,-97.76503,Guesthouse,Entire home/apt,3,1,1,2,129
+7,East Riverside,78741,30.23616,-97.73682,Guest suite,Entire home/apt,2,1,1,1,40
+8,Travis Heights,78704,30.25012,-97.74193,House,Entire home/apt,5,2,2,4,260
+9,,78748,30.15645,-97.82411,House,Entire home/apt,6,2,3,3,300
+10,Travis Heights,78704,30.24503,-97.74075,House,Entire home/apt,5,1,2,2,550
+11,West Campus,78705,30.29422,-97.74618,House,Entire home/apt,4,1,2,3,220
+12,Balcones Civic Association,78759,30.38957,-97.76216,Condominium,Entire home/apt,4,2.5,2,2,155
+13,East Riverside,78741,30.23564,-97.73146,Guesthouse,Entire home/apt,2,1,1,2,54
+14,Clarksville,78703,30.28027,-97.75596,Guest suite,Entire home/apt,6,1,2,3,95
+15,Brentwood,78757,30.33766,-97.73726,House,Entire home/apt,4,1,2,2,100
+16,Cherry Creek,78749,30.20273,-97.84439,House,Entire home/apt,6,2,3,3,55
+17,Scofield Ridge,78727,30.4303,-97.69125,House,Private room,1,1,1,1,35
+18,Tarrytown,78703,30.29996,-97.77832,House,Entire home/apt,2,1,1,1,59
+19,Northwest Hills,78731,30.35141,-97.76323,House,Entire home/apt,4,2,2,2,350
+20,Tarrytown,78703,30.30038,-97.77886,House,Entire home/apt,4,1,1,2,105
+21,,78758,30.37641,-97.70926,House,Private room,1,1,1,1,52
+22,McKinney,78744,30.20093,-97.75318,Guest suite,Entire home/apt,3,1,1,2,40
+23,University of Texas,78705,30.28625,-97.75022,Condominium,Entire home/apt,2,1,2,3,100
+24,Clarksville,78703,30.28271,-97.75881,Guesthouse,Entire home/apt,2,1,0,2,300
+25,Clarksville,78703,30.28188,-97.76413,Townhouse,Entire home/apt,6,2.5,3,3,500
+26,Travis Heights,78704,30.2444,-97.75121,Apartment,Entire home/apt,2,1,0,1,150
+27,Zilker,78704,30.25596,-97.76866,Guesthouse,Entire home/apt,6,1,1,3,99
+28,Tarrytown,78703,30.29717,-97.77102,House,Entire home/apt,4,1,2,2,249
+29,Hyde Park,78751,30.31171,-97.72455,Apartment,Entire home/apt,4,1,1,1,89
+30,Barton Hills,78704,30.2607,-97.77194,Condominium,Entire home/apt,4,1.5,1,1,145
+31,Zilker,78704,30.25775,-97.76354,House,Entire home/apt,2,1,1,1,89
+32,Dawson,78704,30.23152,-97.76434,Guesthouse,Entire home/apt,2,1,1,1,110
+33,Galindo,78704,30.23616,-97.76446,Guesthouse,Entire home/apt,3,1,1,2,150
+34,South Congress,78704,30.24501,-97.74986,Guesthouse,Entire home/apt,3,1,1,3,150
+35,Bouldin Creek,78704,30.24604,-97.75329,House,Entire home/apt,4,2,2,2,470
+36,Bouldin Creek,78704,30.24775,-97.76403,House,Entire home/apt,6,1,2,3,145
+37,Rosedale,78731,30.31383,-97.75161,Guesthouse,Entire home/apt,2,1,1,1,85
+38,Angus Valley,78727,30.41519,-97.73019,Townhouse,Entire home/apt,6,2.5,2,3,230
+39,University of Texas,78705,30.28985,-97.7451,Apartment,Entire home/apt,4,2,2,2,107
+40,Cherry Creek,78749,30.20857,-97.85673,House,Private room,3,2,2,2,67
+41,South Lamar,78704,30.24422,-97.77885,House,Entire home/apt,2,1,1,1,90
+42,East Downtown,78702,30.27656,-97.72166,Bungalow,Private room,4,1,1,1,75
+43,South Lamar,78704,30.23042,-97.78256,House,Private room,4,1.5,1,2,77
+44,East Downtown,78741,30.24773,-97.72584,Condominium,Entire home/apt,3,1,1,2,130
+45,Tarrytown,78703,30.29187,-97.76824,Guesthouse,Entire home/apt,4,1,1,1,115
+46,Hyde Park,78751,30.3071,-97.73046,House,Entire home/apt,8,4,4,4,850
+47,Old West Austin,78703,30.27577,-97.75608,House,Entire home/apt,4,1,2,2,152
+48,Upper Boggy Creek,78722,30.29138,-97.71907,House,Entire home/apt,3,1,1,1,125
+49,East Downtown,78702,30.26775,-97.72695,House,Entire home/apt,12,3,5,12,821
+50,East Downtown,78702,30.25517,-97.72458,House,Entire home/apt,8,2,3,5,400
+51,Travis Heights,78704,30.23778,-97.74453,Guesthouse,Entire home/apt,2,1,1,1,68
+52,Steiner Ranch,78733,30.33937,-97.88116,House,Private room,2,1,1,1,95
+53,Zilker,78704,30.25177,-97.77888,House,Entire home/apt,6,1,3,3,195
+54,Zilker,78704,30.25003,-97.77859,House,Entire home/apt,6,1,3,3,245
+55,Zilker,78704,30.25625,-97.76766,House,Entire home/apt,6,3,4,4,750
+56,Downtown,78701,30.2752,-97.74863,House,Entire home/apt,6,1,3,4,404
+57,Govalle,78721,30.27324,-97.71173,House,Private room,2,1,1,2,50
+58,East Downtown,78702,30.26278,-97.73529,House,Entire home/apt,6,2,2,2,176
+59,East Downtown,78702,30.26984,-97.72874,House,Private room,2,1,1,1,85
+60,Downtown,78701,30.27066,-97.7414,Apartment,Entire home/apt,2,1,1,1,128
+61,Hyde Park,78751,30.31262,-97.72543,Guest suite,Entire home/apt,3,1.5,1,1,109
+62,Barton Hills,78704,30.26088,-97.77438,Apartment,Entire home/apt,2,1,1,1,89
+63,Zilker,78704,30.25126,-97.77173,Guesthouse,Entire home/apt,2,1,0,1,95
+64,South Lamar,78704,30.23596,-97.78299,House,Entire home/apt,4,2,2,2,400
+65,Galindo,78704,30.23916,-97.76487,Apartment,Entire home/apt,2,1,1,1,100
+66,Allendale,78731,30.32787,-97.75442,House,Entire home/apt,5,2.5,3,4,500
+67,Windsor Park,78723,30.30971,-97.6948,Guesthouse,Entire home/apt,2,1,1,1,95
+68,Clarksville,78703,30.2809,-97.76065,Apartment,Entire home/apt,2,1,1,1,119
+69,East Downtown,78702,30.26071,-97.73258,Bungalow,Entire home/apt,4,1,2,3,225
+70,Upper Boggy Creek,78722,30.29808,-97.71339,House,Private room,8,2,4,6,600
+71,West Austin,78703,30.28408,-97.76828,Bungalow,Entire home/apt,5,2,3,3,500
+72,Windsor Park,78723,30.30419,-97.68914,House,Entire home/apt,12,2,3,5,508
+73,Highland,78752,30.32373,-97.71629,House,Private room,2,1,1,1,47
+74,University of Texas,78705,30.29269,-97.74345,Condominium,Entire home/apt,4,1,1,1,45
+75,Wooten,78757,30.35669,-97.72658,House,Entire home/apt,8,2,4,6,199
+76,Travis Heights,78704,30.24666,-97.7476,House,Entire home/apt,6,1,2,2,112
+77,Zilker,78704,30.25456,-97.77551,Guesthouse,Entire home/apt,4,1,1,1,85
+78,Travis Heights,,30.24613,-97.74528,House,Entire home/apt,4,1,2,3,77
+79,Hyde Park,78751,30.30326,-97.73057,Bungalow,Entire home/apt,2,1,1,1,119
+80,Hyde Park,78751,30.3022,-97.73013,House,Private room,2,1,1,1,60
+81,Downtown,78701,30.27509,-97.74851,House,Entire home/apt,5,1,3,3,260
+82,,78704,30.24395,-98.00244,House,Entire home/apt,6,2,3,5,295
+83,Hyde Park,78751,30.30226,-97.73143,Bungalow,Entire home/apt,4,1,2,3,136
+84,Hyde Park,78751,30.30242,-97.72954,Bungalow,Entire home/apt,2,1,1,2,119
+85,McKinney,78744,30.16127,-97.7843,House,Entire home/apt,10,2.5,4,6,199
+86,East Downtown,78702,30.25582,-97.72709,Guesthouse,Entire home/apt,3,1,0,1,107
+87,University of Texas,78705,30.30219,-97.74143,Guesthouse,Entire home/apt,2,1,1,1,129
+88,Upper Boggy Creek,78722,30.28917,-97.71148,House,Entire home/apt,2,1,1,1,100
+89,Barton Hills,78704,30.2515,-97.78206,House,Entire home/apt,8,2,4,4,373
+90,,78732,30.41813,-97.88915,House,Entire home/apt,6,2.5,2,2,105
+91,Barton Hills,78704,30.2521,-97.78382,House,Entire home/apt,8,3,4,6,699
+92,Galindo,78704,30.24154,-97.76121,House,Entire home/apt,2,1,1,1,69
+93,Rollingwood,78746,30.27728,-97.79113,Bungalow,Entire home/apt,8,3,4,6,800
+94,Cherry Creek,78745,30.19318,-97.82095,House,Entire home/apt,6,2,3,3,129
+95,Highland,78752,30.33107,-97.7142,House,Entire home/apt,10,2,4,6,350
+96,Galindo,78704,30.23908,-97.77182,House,Entire home/apt,6,1,2,2,700
+97,Zilker,78704,30.25784,-97.76114,House,Entire home/apt,6,2,2,4,270
+98,Zilker,78704,30.25836,-97.76723,House,Entire home/apt,10,2.5,4,6,700
+99,Travis Heights,78704,30.24776,-97.74527,Guesthouse,Entire home/apt,2,1,1,1,85
+100,Old West Austin,78703,30.27571,-97.75819,Loft,Private room,2,1,1,1,300
+101,East Riverside,78741,30.24594,-97.7313,Guest suite,Entire home/apt,6,1,2,3,124
+102,Govalle,78702,30.2635,-97.70097,House,Entire home/apt,9,1,3,6,184
+103,Zilker,78704,30.25341,-97.77369,Condominium,Entire home/apt,2,1,1,1,99
+104,Upper Boggy Creek,78722,30.28913,-97.71844,Apartment,Entire home/apt,2,1,1,1,79
+105,,78754,30.3635,-97.64556,House,Private room,2,1,2,1,45
+106,Travis Heights,78704,30.24503,-97.74531,Apartment,Entire home/apt,2,1,0,1,250
+107,Highland,78752,30.32827,-97.7156,House,Entire home/apt,7,1,3,5,139
+108,Hyde Park,78751,30.30788,-97.72679,Loft,Entire home/apt,3,1,0,1,94
+109,Bouldin Creek,78704,30.24846,-97.75077,Loft,Entire home/apt,4,2.5,2,2,295
+110,,78728,30.45831,-97.68722,House,Entire home/apt,7,2.5,3,3,350
+111,,78737,30.1703,-97.96974,House,Private room,3,1,1,1,79
+112,Hyde Park,78751,30.30271,-97.73123,House,Entire home/apt,4,1,2,2,159
+113,,78737,30.17278,-97.973,House,Private room,2,1,1,1,55
+114,East Downtown,78702,30.25409,-97.72566,House,Entire home/apt,8,2,3,4,450
+115,Bouldin Creek,78704,30.25368,-97.7567,House,Entire home/apt,6,1,2,2,150
+116,East Downtown,78702,30.25426,-97.72431,Guesthouse,Entire home/apt,2,1,1,1,81
+117,East Downtown,78702,30.27917,-97.71564,Guesthouse,Entire home/apt,4,1,1,2,90
+118,Windsor Park,78723,30.3034,-97.68496,House,Entire home/apt,5,,3,2,175
+119,Clarksville,78703,30.27928,-97.75642,Bungalow,Entire home/apt,5,2,2,3,610
+120,South Congress,78704,30.24481,-97.75253,House,Private room,2,1,1,1,110
+121,East Downtown,78702,30.2717,-97.71704,Condominium,Private room,2,1,1,1,65
+122,Copperfield,78753,30.38342,-97.66611,House,Private room,7,2,1,2,550
+123,Zilker,78704,30.25309,-97.77375,Apartment,Entire home/apt,4,2,2,2,350
+124,East Riverside,78741,30.23884,-97.73486,House,Entire home/apt,7,2.5,3,3,275
+125,Clarksville,78703,30.28281,-97.76417,House,Entire home/apt,16,3,6,17,299
+126,,78758,30.36663,-97.70872,Apartment,Entire home/apt,3,2.5,3,3,69
+127,Zilker,78704,30.25864,-97.75981,Townhouse,Entire home/apt,6,1,2,3,222
+128,St. Edwards,78741,30.23223,-97.74579,Townhouse,Entire home/apt,7,3,4,5,154
+129,West Congress,78745,30.18844,-97.78975,House,Entire home/apt,8,2,3,3,210
+130,Hyde Park,78751,30.30944,-97.73181,House,Private room,1,1,1,1,195
+131,Bouldin Creek,78704,30.25721,-97.75563,Guesthouse,Entire home/apt,4,1,1,3,124
+132,,78759,30.41396,-97.75983,Bed and breakfast,Private room,2,1.5,1,1,79
+133,East Congress,78745,30.20948,-97.76969,Guesthouse,Entire home/apt,4,1,1,2,65
+134,East Downtown,78702,30.25518,-97.73289,House,Entire home/apt,10,3,4,5,525
+135,Dawson,78704,30.23225,-97.76552,Apartment,Entire home/apt,4,1,1,1,125
+136,Zilker,78704,30.25304,-97.76885,House,Entire home/apt,12,4,5,5,995
+137,Long Canyon,78730,30.35672,-97.79621,Apartment,Entire home/apt,4,,2,,350
+138,South Manchaca,78745,30.2135,-97.7809,House,Entire home/apt,6,2,3,3,600
+139,Bouldin Creek,78704,30.25431,-97.75578,House,Entire home/apt,4,1,2,2,400
+140,,78759,30.41401,-97.76194,Bed and breakfast,Private room,3,,1,1,125
+141,,78759,30.41469,-97.76042,Bed and breakfast,Private room,2,1,1,1,79
+142,Govalle,78702,30.26764,-97.70976,House,Entire home/apt,6,1,2,4,250
+143,Travis Heights,78704,30.2509,-97.74119,House,Entire home/apt,4,2,2,2,650
+144,East Downtown,78702,30.2648,-97.73428,Townhouse,Entire home/apt,16,3.5,3,10,200
+145,East Downtown,78702,30.25536,-97.72855,House,Entire home/apt,5,1,2,3,650
+146,,78724,30.28413,-97.64927,House,Entire home/apt,6,2.5,3,3,230
+147,McKinney,78747,30.16204,-97.73744,House,Private room,1,1.5,1,1,45
+148,Georgian Acres,78753,30.35229,-97.69454,House,Entire home/apt,10,1.5,4,7,625
+149,Barton Hills,78704,30.25407,-97.77818,House,Entire home/apt,6,2,3,3,750
+150,East Downtown,78702,30.27752,-97.71919,Guesthouse,Entire home/apt,3,1,1,1,95
+151,Barton Hills,78704,30.2509,-97.78843,House,Entire home/apt,8,2,3,5,500
+152,South Lamar,78704,30.24391,-97.77203,House,Entire home/apt,6,2,4,3,475
+153,East Downtown,78702,30.26833,-97.71708,House,Entire home/apt,8,2,3,5,240
+154,Downtown,78701,30.26778,-97.74563,Apartment,Entire home/apt,6,1,2,2,149
+155,Bouldin Creek,78704,30.24669,-97.75532,House,Entire home/apt,10,2,5,5,799
+156,Holly,78702,30.26052,-97.71214,House,Entire home/apt,6,1,2,2,375
+157,Brentwood,78757,30.33354,-97.73222,House,Private room,2,1,1,1,47
+158,Westlake Hills,78746,30.3024,-97.80719,House,Entire home/apt,6,2,3,3,495
+159,East Downtown,78702,30.27235,-97.72514,House,Private room,2,1,1,1,75
+160,SW Williamson Co.,78729,30.45096,-97.76467,House,Entire home/apt,4,1.5,2,2,130
+161,,78725,30.23911,-97.58625,Other,Private room,2,1,1,1,100
+162,Copperfield,78754,30.36875,-97.65554,House,Private room,4,2,1,1,109
+163,Tarrytown,78703,30.31293,-97.76659,House,Entire home/apt,10,3,5,5,450
+164,Parker Lane,78741,30.23193,-97.74121,House,Entire home/apt,5,2,3,3,175
+165,Bouldin Creek,78704,30.25333,-97.7523,House,Private room,2,2.5,1,1,99
+166,South First,78704,30.25304,-97.75301,House,Private room,2,2.5,1,1,99
+167,East Downtown,78702,30.27508,-97.72995,House,Private room,2,1,1,1,65
+168,South Lamar,78704,30.2407,-97.77525,House,Entire home/apt,4,1.5,2,2,275
+169,East Riverside,78741,30.24468,-97.72442,Condominium,Entire home/apt,4,1,2,2,250
+170,East Riverside,78741,30.24035,-97.73334,Townhouse,Entire home/apt,4,2,2,3,190
+171,,78759,30.42198,-97.76717,House,Private room,2,,1,2,75
+172,East Downtown,78702,30.256,-97.72595,House,Entire home/apt,8,1.5,3,3,200
+173,South Congress,78704,30.24916,-97.75179,House,Entire home/apt,8,2,4,5,2000
+174,Rosewood,78702,30.26795,-97.71195,House,Private room,4,1,1,2,115
+175,Galindo,78704,30.23447,-97.76755,Apartment,Private room,16,,10,10,700
+176,MLK & 183,78721,30.25866,-97.68761,House,Private room,2,1.5,1,1,100
+177,East Downtown,78702,30.27374,-97.71887,Condominium,Private room,2,1,1,1,67
+178,Barton Hills,78746,30.261,-97.79197,Loft,Entire home/apt,3,1.5,1,1,400
+179,East Downtown,78702,30.2628,-97.72499,Apartment,Entire home/apt,3,1,1,2,222
+180,Oak Hill,78735,30.25264,-97.87296,Apartment,Entire home/apt,2,1,1,1,300
+181,East Downtown,78702,30.26496,-97.71496,House,Entire home/apt,10,2,4,6,750
+182,Bouldin Creek,78704,30.24754,-97.75855,House,Private room,3,1,1,1,120
+183,West Congress,78745,30.21698,-97.77233,House,Entire home/apt,5,2,2,2,250
+184,West Congress,78745,30.20962,-97.77531,House,Entire home/apt,9,2,3,5,240
+185,East Downtown,78702,30.2537,-97.73116,House,Entire home/apt,6,2,3,5,450
+186,East Downtown,78702,30.25185,-97.73104,House,Entire home/apt,4,1,1,1,135
+187,Angus Valley,78759,30.41699,-97.7544,House,Private room,1,1,1,1,32
+188,Holly,78702,30.2582,-97.72019,House,Entire home/apt,3,,2,1,400
+189,South Manchaca,78745,30.20633,-97.79218,House,Entire home/apt,4,1,2,1,120
+190,MLK & 183,78721,30.26912,-97.68767,House,Entire home/apt,4,1,1,2,79
+191,Bouldin Creek,78704,30.25035,-97.75722,House,Entire home/apt,4,2,2,2,370
+192,Downtown,78701,30.27105,-97.74933,Apartment,Entire home/apt,6,1,2,3,299
+193,Travis Heights,78704,30.24547,-97.74739,House,Entire home/apt,6,2,3,3,295
+194,Bouldin Creek,78704,30.24836,-97.76186,Bungalow,Entire home/apt,6,1,2,4,165
+195,Zilker,78704,30.25702,-97.76414,House,Entire home/apt,5,2,3,3,582
+196,Barton Hills,78704,30.2613,-97.78031,House,Entire home/apt,8,3,4,5,580
+197,Clarksville,78703,30.28455,-97.76286,House,Entire home/apt,5,1,2,2,445
+198,Old West Austin,78703,30.27434,-97.75466,House,Entire home/apt,8,2,3,3,302
+199,Clarksville,78703,30.28226,-97.76035,Apartment,Entire home/apt,6,2,2,2,156
